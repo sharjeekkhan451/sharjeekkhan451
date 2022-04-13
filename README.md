@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharjeekkhan451
-- 👀 I’m interested in ... develepment
-- 🌱 I’m currently learning ... frontent develeper
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... development
+- 🌱 I’m currently learning ... frontent developer
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
